@@ -1,7 +1,7 @@
-# Linear-Regressionn-Presentation
+# Linear-Regression-Presentation
 Team - Akul Bajaj, Andres Martinez Tobon, Bharadwaj Yadav Allu
  
-Linear Regression study session is a skit designed by three students to replicate issues faced when trying to complete multiple linear regression on a data set.
+Linear Regression study session is a skit designed by three students to replicate issues faced when trying to complete multiple linear regression on a project.
  
 Roles:
 * Student 1: Akul Bajaj
